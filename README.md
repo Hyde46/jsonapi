@@ -13,7 +13,7 @@ A serializer/deserializer for JSON payloads that comply to the
 ## Installation
 
 ```
-go get -u github.com/google/jsonapi
+go get -u github.com/Hyde46/jsonapi
 ```
 
 Or, see [Alternative Installation](#alternative-installation).
