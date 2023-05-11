@@ -1,4 +1,4 @@
-module github.com/Hyde46/jsonapi
+module github.com/Meshcapade/jsonapi
 
 go 1.19
 
