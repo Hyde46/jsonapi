@@ -1,4 +1,4 @@
-Just a fork with a fix, since the google teams seems to have dropped support
+Just a fork with a fix, since the google team seems to have dropped support
 
 
 ## Installation
